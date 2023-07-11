@@ -1,2 +1,3 @@
 # SpaceInv
-Algo
+juego de space invaders
+
